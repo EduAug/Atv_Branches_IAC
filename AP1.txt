@@ -18,6 +18,6 @@ Alteração 2, população com Lorem
 
 
 
-Alteração/Adição 1 na Linha 15
+Segunda Alteração/Adição na Linha 15 conforme passo 14
 
-Alteração/Adição 1 na Linha 17
+Segunda Alteração/Adição na Linha 17 conforme passo 14
